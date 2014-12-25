@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-    <Say voice="alice" language="en-gb">
+    <Say voice="alice" language="zh-CN">
         Chī shǔ, báile shàonián
     </Say>
 </Response>
